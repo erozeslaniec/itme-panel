@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg2"
+   viewBox="0 0 272.71746 257.09618"
+   height="72.558mm"
+   width="76.967mm"
+   version="1.1">
+  <defs
+     id="defs17" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-68.663 -51.743)">
+    <circle
+       id="path3336"
+       style="image-rendering:auto;fill:#ffffff;fill-opacity:0"
+       stroke-width="10"
+       fill-rule="evenodd"
+       stroke="#000"
+       cy="200.3"
+       cx="232.84"
+       r="103.54"
+       fill="#fff" />
+    <g
+       fill="none"
+       id="g6">
+      <g
+         stroke="#000"
+         id="g8">
+        <path
+           id="path3338"
+           d="m89.025 55.356c50.775 88.454 51.775 89.044 51.775 89.044l-24.15-8.26-42.983-77.892z"
+           stroke-width="6.4845" />
+        <path
+           id="path3342"
+           d="m198.14 160.24c21.587-19.302 55.735-17.265 75 4.3029 19.454 21.78 17.394 56.217-4.3669 75.638-21.958 19.597-56.665 17.516-76.231-4.4245-11.551-12.952-16.239-31.09-12.445-48.021"
+           stroke-linecap="round"
+           stroke-width="10" />
+        <path
+           id="path4306"
+           d="m180.25 187.12 23.929 22.143"
+           stroke-linecap="round"
+           stroke-width="10" />
+      </g>
+      <path
+         id="path4308"
+         d="m181.32 187.48-21.07 16.43"
+         stroke-width="0" />
+      <path
+         id="path4310"
+         d="m179.89 186.55-23.214 16.786"
+         stroke="#000"
+         stroke-linecap="round"
+         stroke-width="10" />
+    </g>
+  </g>
+</svg>
